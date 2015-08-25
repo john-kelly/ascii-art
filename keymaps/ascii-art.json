@@ -1,0 +1,5 @@
+{
+  ".editor": {
+    "cmd-shift-a": "ascii-art:convert"
+  }
+}
